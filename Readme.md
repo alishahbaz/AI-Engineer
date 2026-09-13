@@ -13,30 +13,30 @@ It explains:
 
 ## How to use this wiki
 
-1. Read the [AI Engineer Overview](/AI-Engineer-Overview)
-2. Follow the [Skill Stack](Skill-Stack)
-3. Build from the [Foundations](Foundations)
-4. Move into [RAG and Embeddings](RAG-and-Embeddings)
-5. Learn [Agents and Tools](Agents-and-Tools)
-6. Add [Deployment and Ops](Deployment-and-Ops)
-7. Build the projects in [Projects](Projects)
-8. Use the [Roadmap](Roadmap) to guide your learning
-9. Use the [Glossary](Glossary) when you get stuck on terms
+1. Read the [AI Engineer Overview](https://github.com/alishahbaz/AI-Engineer/wiki/AI-Engineer-Overview)
+2. Follow the [Skill Stack](https://github.com/alishahbaz/AI-Engineer/wiki/Skill-Stack)
+3. Build from the [Foundations](https://github.com/alishahbaz/AI-Engineer/wiki/Foundations)
+4. Move into [RAG and Embeddings](https://github.com/alishahbaz/AI-Engineer/wiki/RAG-and-Embeddings)
+5. Learn [Agents and Tools](https://github.com/alishahbaz/AI-Engineer/wiki/Agents-and-Tools)
+6. Add [Deployment and Ops](https://github.com/alishahbaz/AI-Engineer/wiki/Deployment-and-Ops)
+7. Build the projects in [Projects](https://github.com/alishahbaz/AI-Engineer/wiki/Projects)
+8. Use the [Roadmap](https://github.com/alishahbaz/AI-Engineer/wiki/Roadmap) to guide your learning
+9. Use the [Glossary](https://github.com/alishahbaz/AI-Engineer/wiki/Glossary) when you get stuck on terms
 
 ## Page map
 
 | Page | Purpose |
 |---|---|
-| [Home](Home) | Main landing page |
-| [AI Engineer Overview](AI-Engineer-Overview) | What an AI engineer is and is not |
-| [Skill Stack](Skill-Stack) | The 3-tier learning structure |
-| [Foundations](Foundations) | Python, Git, CLI, Linux, APIs |
-| [RAG and Embeddings](RAG-and-Embeddings) | How RAG and vector search work |
-| [Agents and Tools](Agents-and-Tools) | Agents, tool use, loops, reliability |
-| [Deployment and Ops](Deployment-and-Ops) | Containers, Kubernetes, observability, monitoring |
-| [Projects](Projects) | Three portfolio-worthy AI projects |
-| [Roadmap](Roadmap) | A phased learning plan |
-| [Glossary](Glossary) | Key terms defined simply |
+| [Home](https://github.com/alishahbaz/AI-Engineer/wiki/Home) | Main landing page |
+| [AI Engineer Overview](https://github.com/alishahbaz/AI-Engineer/wiki/AI-Engineer-Overview) | What an AI engineer is and is not |
+| [Skill Stack](https://github.com/alishahbaz/AI-Engineer/wiki/Skill-Stack) | The 3-tier learning structure |
+| [Foundations](https://github.com/alishahbaz/AI-Engineer/wiki/Foundations) | Python, Git, CLI, Linux, APIs |
+| [RAG and Embeddings](https://github.com/alishahbaz/AI-Engineer/wiki/RAG-and-Embeddings) | How RAG and vector search work |
+| [Agents and Tools](https://github.com/alishahbaz/AI-Engineer/wiki/Agents-and-Tools) | Agents, tool use, loops, reliability |
+| [Deployment and Ops](https://github.com/alishahbaz/AI-Engineer/wiki/Deployment-and-Ops) | Containers, Kubernetes, observability, monitoring |
+| [Projects](https://github.com/alishahbaz/AI-Engineer/wiki/Projects) | Three portfolio-worthy AI projects |
+| [Roadmap](https://github.com/alishahbaz/AI-Engineer/wiki/Roadmap) | A phased learning plan |
+| [Glossary](https://github.com/alishahbaz/AI-Engineer/wiki/Glossary) | Key terms defined simply |
 
 ## Important note on links
 
